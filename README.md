@@ -24,8 +24,8 @@ A realistic, interactive simulation of a Cisco Catalyst 9300 48-port network swi
 ### 1. Clone or download this project
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cisco9300-sim.git
-cd cisco9300-sim
+git clone https://github.com/Z-eq/cisco-portsimulator.git
+cisco-portsimulator
 ```
 
 ### 2. Push to GitHub (if not already)
@@ -35,15 +35,15 @@ git init
 git add .
 git commit -m "Initial commit — Cisco 9300 switch simulator"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/cisco9300-sim.git
+git remote add origin https://github.com/Z-eq/cisco-portsimulator.git
 git push -u origin main
 ```
 
 ### 3. Deploy on Vercel
 
-1. Go to **[vercel.com](https://vercel.com)** and sign in with GitHub
+1. Go to **[vercel.com](https://vercel.com)** and sign in with GitHub , its free !
 2. Click **"Add New Project"**
-3. Import your **cisco9300-sim** repository
+3. Import your **cisco-portsimulator* repository
 4. Vercel auto-detects Vite — no config needed
 5. Click **Deploy** ✅
 
