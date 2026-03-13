@@ -2,7 +2,7 @@
 
 A realistic, interactive simulation of a Cisco Catalyst 9300 48-port network switch — built with React + Vite.
 
-**[Live Demo →](https://your-project.vercel.app)**
+**[Live Demo →]**
 
 ---
 
